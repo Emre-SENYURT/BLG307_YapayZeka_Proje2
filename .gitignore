@@ -1,0 +1,8 @@
+# Gizli anahtarları yükleme (ÇOK ÖNEMLİ)
+.streamlit/secrets.toml
+.env
+
+# Gereksiz sistem dosyaları
+__pycache__/
+*.pyc
+.DS_Store
